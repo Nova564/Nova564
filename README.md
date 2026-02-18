@@ -1,4 +1,6 @@
-# SlordyTech
+# Hey there 👋
+
+# I'm SlordyTech
 
 I am a Computer Science student specializing in Game Development. I have a passion for building complex systems and constantly improving my programming skills, whether it's for games or general software engineering.
 
