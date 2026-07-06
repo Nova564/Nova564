@@ -18,6 +18,6 @@ You can find a selection of my projects on my [Portfolio](https://nova564.github
 ---
 
 ### About Me
-* **Hobbies:** Programming, gaming, and exploring low-level development—I hate being clueless about how things work.
+* **Hobbies:** Programming, gaming, watching football and exploring low-level development I hate being clueless about how things work.
 * **Favorite Anime Character:** Muichiro Tokito (Demon Slayer)!!
 * **Personal:** I own a cat.
